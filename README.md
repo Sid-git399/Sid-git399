@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
 
 # 🧑‍💻 Sid — Full-Stack Developer
 
@@ -33,8 +32,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sid-git399&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-git399&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -44,7 +43,7 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Sid-git399/Sid-git399/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -58,6 +57,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedrane-sidali-b67075382/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidali_bdr/)
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=Sid-git399&color=blueviolet&style=for-the-badge)
 
 </div>
