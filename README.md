@@ -64,7 +64,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/banner-sidali.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/langs.svg" width="100%" />
 </div>
 
 ---
