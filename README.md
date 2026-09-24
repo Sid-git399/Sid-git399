@@ -62,16 +62,10 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-
-<img height="165" src="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/langs.svg" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-git399&layout=compact&theme=radical&hide_border=true" />
-
+  <img src="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/banner-sidali.svg" width="100%" />
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/langs.svg">
-  
-</picture>
 
 ---
 
