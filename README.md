@@ -28,6 +28,34 @@
 
 ---
 
+## 🐱 My GitHub Pet
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/pet.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+## 🏙️ Isometric Contribution City
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/isocat.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/isocat-light.svg">
+  <img alt="isometric contribution city" src="https://raw.githubusercontent.com/Sid-git399/Sid-git399/main/dist/isocat.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
